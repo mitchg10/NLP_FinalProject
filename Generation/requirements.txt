@@ -1,0 +1,8 @@
+transformers
+datasets
+torch
+pandas
+numpy
+anthropic
+ollama
+mlx-lm
